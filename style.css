@@ -1,0 +1,83 @@
+nav{
+   color:white; 
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: white!important;
+}
+.nnn{
+    margin-left:25px;
+}
+ul{
+    margin-left: 850px;
+}
+.carousel-item{
+    height: 500px;  
+}
+.nasa{
+    text-align: right;
+}
+.nas{
+    color:white;
+    background-color: lightcoral;
+}
+.navbar{
+    color:white;
+}
+.dd{
+    height:100px; 
+}
+.b{
+    text-align:center;
+    height:200px;
+    color:white;
+}
+.col-md-6{
+    text-align:left;
+}
+.lol{
+    margin-top:50px;
+}
+.lul{
+    height:300px;
+}
+.a{
+    color:black;
+    height: 300px;
+    text-align:center;
+}
+.c{
+    width:80%;
+    height:300px;
+}
+.kal{
+    margin-left:250px;
+}
+.kal img{
+    margin-top:50px;
+    margin-left:20px;
+}
+.fut{
+    text-align: center;
+    background-color:#343a40;
+    color:white;
+    height:350px;
+}
+form button{
+    height:40px;
+}
+.lorem{
+    margin-left:300px;
+    margin-right:300px;
+}
+.last{
+    background-color: black;
+    color:white;
+    text-align:center;
+    height:70px;
+}
+.myform{
+    line-height: 32px;
+    border-radius: 5px;
+}
